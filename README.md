@@ -16,6 +16,7 @@
 ![Cabeçalho da página 428px](https://github.com/RaquelHCastro/alurabooks/blob/main/Cabe%C3%A7alho%20da%20p%C3%A1gina.png) 
 
 <h3> Layout 1024px</h3>
+
 ![Cabeçalho da página 1024px](https://github.com/RaquelHCastro/alurabooks/blob/main/Cabe%C3%A7alho%20da%20p%C3%A1gina_1024.png)
 
 # Autores
