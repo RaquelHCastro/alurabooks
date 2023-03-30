@@ -6,11 +6,15 @@
 :white_check_mark: Projeto desenvolvido seguindo o curso de responsividade com mobile-first. :books:
 
 <h2>Tecnologias usadas:</h2>
-- HTML <br>
-- CSS
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  </ul>
 <p>
-
-![Cabeçalho da página](https://github.com/RaquelHCastro/alurabooks/blob/main/Cabe%C3%A7alho%20da%20p%C3%A1gina.png) ![Cabeçalho da página](https://github.com/RaquelHCastro/alurabooks/blob/main/Cabe%C3%A7alho%20da%20p%C3%A1gina_1024.png)
+<h2> Layout 428px</h2>
+![Cabeçalho da página](https://github.com/RaquelHCastro/alurabooks/blob/main/Cabe%C3%A7alho%20da%20p%C3%A1gina.png) 
+<h2> Layout 1024px</h2>
+![Cabeçalho da página](https://github.com/RaquelHCastro/alurabooks/blob/main/Cabe%C3%A7alho%20da%20p%C3%A1gina_1024.png)
 
 # Autores
 
