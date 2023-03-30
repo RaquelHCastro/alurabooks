@@ -10,7 +10,7 @@
 - CSS
 <p>
 
-![Cabeçalho da página](https://github.com/RaquelHCastro/alura-plus/blob/main/Alura%2B%20site.jpg)
+![Cabeçalho da página](https://github.com/RaquelHCastro/alurabooks/blob/main/Cabe%C3%A7alho%20da%20p%C3%A1gina.png)
 
 # Autores
 
